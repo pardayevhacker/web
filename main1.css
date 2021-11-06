@@ -1,0 +1,8 @@
+.box {
+    height: 1000px;
+    background-image: url("./manzara.jpg");
+    color: white;
+    background-repeat: no-repeat;
+    background-position: 300px 150px;
+    border: 5px solid red;
+}
